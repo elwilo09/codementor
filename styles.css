@@ -9,7 +9,7 @@ body {
 
 .rounded-image {
   border-radius: 50%;
-  border: 2px solid black;
+  border: 1px solid black;
 }
 
 .service-list {
@@ -74,7 +74,7 @@ body {
 }
 
 #inicio {
-  padding: 100px;
+  padding: 30px;
   text-align: center;
   background-color: #f8f9fa;
 }
@@ -85,7 +85,7 @@ h1 {
 }
 
 #nuestros-servicios {
-  padding: 100px;
+  padding: 30px;
   text-align: center;
   background-color: #e9ecef;
 }
@@ -96,7 +96,7 @@ h1 {
 }
 
 #quienes-somos {
-  padding: 100px;
+  padding: 30px;
   text-align: center;
   background-color: #f8f9fa;
 }
@@ -108,7 +108,7 @@ h1 {
 
 .card {
   border: none;
-  border-radius: 5px;
+  border-radius: 30px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin-bottom: 30px;
 }
@@ -138,7 +138,7 @@ h1 {
 }
 
 #contacto {
-  padding: 100px;
+  padding: 30px;
   text-align: center;
   background-color: #e9ecef;
 }
@@ -190,7 +190,7 @@ h1 {
 
 .footer {
   background-color: #007bff;
-  padding: 20px;
+  padding: 30px;
   text-align: center;
 }
 
@@ -202,7 +202,7 @@ h1 {
 }
 
 .footer p {
-  margin: 10px 0;
+  margin: 20px 0;
   color: #fff;
 }
 
